@@ -43,3 +43,5 @@ gunzip owt_valid.txt.gz
 cd ..
 ```
 
+## Reference
+https://github.com/ZitongYang/cs336-assignment1-basics 
